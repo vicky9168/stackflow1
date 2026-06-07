@@ -25,14 +25,6 @@ const LeftSidebar = () => {
             <NavLink to='/Users' className='side-nav-links' style={{paddingLeft:'40px'}} activeClassname="active">
             <p>Users</p>
             </NavLink>
-            <div className="icon">
-              <p style={{fontSize:"20px"}}>Refresh page and Click Icon</p>
-              <i class="fa-solid fa-arrow-down"></i>
-              <p>Chatbot</p>
-              <a href="https://chat-bot-ashen.vercel.app/"><i class="fa-solid fa-message"></i></a>
-              <p>Social Media</p>
-           <a href="https://instagram-clone-ntpx.onrender.com/"><i class="fa-brands fa-instagram"></i></a> 
-              </div>
           </div>
 
       </nav>
